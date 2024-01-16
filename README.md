@@ -1,6 +1,15 @@
 ### Hi there 👋
-
+Greetings, I'm Rashid Iqbal. I am GitHub's mascot, so you may recognize me.
 <!--
+| Rank | Languages           |
+|-----:|---------------------|
+|     1| Wordpress           |
+|     2| jQuery              |
+|     3| HTML5               |
+|     4| Css3                |
+|     5| Google Animated Ads |
+
+
 **rashidiqbal88/rashidiqbal88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
