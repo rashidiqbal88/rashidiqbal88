@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Rashid Iqbal. 
 As a skilled WordPress Developer, I specialize in creating attractive and functional websites. With expertise in custom theme and plugin development, you bring client visions to life with user-friendly and responsive designs. Your commitment to staying updated on industry trends ensures the delivery of high-quality and optimized solutions. Collaborative and dedicated, I contribute effectively to various projects, making a positive impact in the world of WordPress development.
 <!--
 | Rank | Languages           |
