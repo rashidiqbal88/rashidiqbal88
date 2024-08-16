@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Rashid Iqbal</h1>
+<h3 align="center">A passionate Flutter mobile app developer. I have skills in both web and mobile platforms, and I focus on creating dynamic and user-friendly solutions. From building responsive websites with WordPress to designing sleek mobile apps with Flutter, I love turning ideas into reality with clean, efficient code and intuitive design. I’m dedicated to delivering high-quality experiences that truly make a difference.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rashid-57543a50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LIbraRashid) 
