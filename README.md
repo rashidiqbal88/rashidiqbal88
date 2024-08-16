@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rashid Iqbal</h1>
 <h3 align="center">A passionate Flutter mobile app developer. I have skills in both web and mobile platforms, and I focus on creating dynamic and user-friendly solutions. From building responsive websites with WordPress to designing sleek mobile apps with Flutter, I love turning ideas into reality with clean, efficient code and intuitive design. I’m dedicated to delivering high-quality experiences that truly make a difference.</h3>
 
+- 💬 Ask me about **WordPress | Flutter | JQuery |**
+
+- 📫 How to reach me **rashidiqbal.developer@gmail.com**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rashid-57543a50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LIbraRashid) 
 
@@ -10,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rashidiqbal88&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rashidiqbal88&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidiqbal88&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rashidiqbal88&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rashidiqbal88&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
